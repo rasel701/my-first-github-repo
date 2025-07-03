@@ -43,3 +43,13 @@
     display: inline-block;
 
 }
+
+img{
+    width: 400px;
+    height: 300px;
+    margin: 40px auto;
+    text-align: center;
+    display: block;
+    border-radius: 10px;
+    box-shadow: -10px -10px 15px black;
+}
