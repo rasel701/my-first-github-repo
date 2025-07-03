@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#box{
+    width: 60%;
+    height: auto;
+    background-color: burlywood;
+    margin: 20px auto;
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px;
+    h2{
+        text-align: center;
+        margin: 15px auto;
+        font-size: xx-large;
+        color: aquamarine;
+    }
+}
